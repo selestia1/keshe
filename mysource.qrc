@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bmp/baocun.bmp</file>
+        <file>bmp/chonghong.bmp</file>
+        <file>bmp/daochu.bmp</file>
+        <file>bmp/dayin.bmp</file>
+        <file>bmp/folder.ico</file>
+        <file>bmp/operator.bmp</file>
+        <file>bmp/refresh.bmp</file>
+        <file>bmp/shoukuanguocheng.bmp</file>
+        <file>bmp/sort.bmp</file>
+        <file>bmp/tab.ico</file>
+        <file>bmp/tuichu.bmp</file>
+        <file>bmp/tuikuanguocheng.bmp</file>
+        <file>bmp/xinzeng.bmp</file>
+        <file>bmp/xuandan.bmp</file>
+        <file>bmp/yulan.bmp</file>
+        <file>bmp/juxing.jpg</file>
+        <file>bmp/sanjiao.jpg</file>
+        <file>bmp/tixing.jpg</file>
+        <file>bmp/tuoyuan.jpg</file>
+        <file>bmp/xian.jpg</file>
+        <file>bmp/yuan.jpg</file>
+        <file>bmp/zi.jpg</file>
+        <file>bmp/fangda.jpg</file>
+        <file>bmp/suoxiao.jpg</file>
+    </qresource>
+</RCC>
